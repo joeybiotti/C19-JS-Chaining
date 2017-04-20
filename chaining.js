@@ -8,3 +8,5 @@ var output = document.getElementById("output");
 
 output.innerHTML = finishedProduct;
 
+
+console.log("finishedProduct", finishedProduct);
